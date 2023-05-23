@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Users\Charan\Desktop\dsa imp\.metadata\.plugins\org.eclipse.jdt.core
+343126753.index
+1265141952.index
+1865797976.index
+1372677264.index
